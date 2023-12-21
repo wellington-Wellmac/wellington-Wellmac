@@ -4,7 +4,7 @@
 - 👀 Hoje trabalho como Fullstack developer
 - 🌱 Contate-me no email: dev.wellmac@gmail.com
 - 💞️ Apaixonado pela minha profissão
-- 📫 Estudando e desenvolvendo sempre para consquistar o meus sonhos
+
 
 <div>
   <a href="https://github.com/wellington-Wellmac">
