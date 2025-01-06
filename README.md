@@ -8,7 +8,7 @@
 - *Banco de Dados*: PostgreSQL, MySQL, MongoDB
 - *DevOps*: Docker, Kubernetes, CI/CD, GitHub Actions
 - *Mensageria*: Apache Kafka, RabbitMQ  
-- *Ferramentas*: Swagger, Postman, DBeaver, IntelliJ IDEA, Eclipse
+- *Ferramentas*: Swagger, Postman, DBeaver, IntelliJ IDEA, Eclipse, VsCode.
 
 🚀 *Projetos em Destaque*  
 1. *[Sarplinx: PDV Comercial Completo](#)* – Sistema de vendas com estoque, financeiro, e relatórios.  
@@ -31,5 +31,5 @@ Entre outros.
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ## 📫 Entre em Contato  
-- *Email*: wellingtonmachado@email.com  
-- *LinkedIn*: [Wellington Machado](https://linkedin.com/in/wellingtonmachado)
+- *Email*: dev.wellmac@email.com  
+
