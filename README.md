@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Wellington Machado (Wellmac)
 
 - 👋 Obrigado por me visitar
-- 👀 Hoje trabalho como Fullstack developer
+- 👀 Sou Fullstack developer
 - 🌱 Contate-me no email: dev.wellmac@gmail.com
 - 💞️ Apaixonado pela minha profissão
 
