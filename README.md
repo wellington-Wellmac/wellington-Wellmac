@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou *Wellington Machado*  
 
-🎯 *Engenheiro de Software Sênior* | *Desenvolvedor Full Stack* | *Entusiasta de Microserviços e Mensageria*
+🎯 *Engenheiro de Software* | *Desenvolvedor Full Stack* | *Entusiasta de Microserviços e Mensageria*
 
 🌱 Atualmente desenvolvendo projetos em:
 - *Backend*: Java (Spring Boot, Jakarta EE, JSP, JSF), Golang, Node.js, Python (Django)
